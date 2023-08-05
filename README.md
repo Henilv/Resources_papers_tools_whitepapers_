@@ -1,7 +1,7 @@
 # Resources_papers_tools_whitepapers_
 ML privacy and security papers, tools and articles/blogs/videos
 
-This is a collection of research papers, tools, articles etc. that were part of literature survey to learn about ML privacy and security.
+This is a collection of research papers, tools, articles etc. that were part of literature survey for ML privacy and security.
 
 
 
